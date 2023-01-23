@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51640262213",
+    "project_id": "medcy-32b2a",
+    "storage_bucket": "medcy-32b2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51640262213:android:165a907102b77429eacd2c",
+        "android_client_info": {
+          "package_name": "com.example.medicine_reminder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51640262213-61drhrhhesd3qarias8219b90o9ohfr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIhSAIWu2fgHnEL0fvxNa5nCwtCQgthNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51640262213-61drhrhhesd3qarias8219b90o9ohfr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
